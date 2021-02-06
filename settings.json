@@ -8,6 +8,7 @@
     "vim.handleKeys": {
         "<C-b>": false,
         "<C-w>": false,
+        "<C-f>": false,	
     },
     "editor.lineNumbers": "relative",
     "editor.formatOnSave": true,
