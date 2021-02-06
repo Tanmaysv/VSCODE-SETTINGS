@@ -1,0 +1,15 @@
+{
+    "vim.insertModeKeyBindings": [
+    {
+        "before": ["j", "k"],
+        "after": ["<esc>"]
+    },
+    ],
+    "vim.handleKeys": {
+        "<C-b>": false,
+        "<C-w>": false,
+    },
+    "editor.lineNumbers": "relative",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+}
