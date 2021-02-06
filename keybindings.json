@@ -41,7 +41,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+n",
+        "key": "ctrl+shift+n",
         "command": "explorer.newFile"
     },
     {
